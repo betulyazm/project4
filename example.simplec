@@ -1,0 +1,7 @@
+main {
+  int x;
+  x = 20;
+  int y;
+  y = 30;
+  return 0;
+}
